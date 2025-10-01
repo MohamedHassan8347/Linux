@@ -487,3 +487,5 @@ Configuration files are **files that store settings** and parameters for applica
 **Summary:**
 Configuration files are essential for **maintaining application and system settings**, enabling flexibility, security, and automation in DevOps workflows.
 
+## Exercises used to reinforce and strengthen Linux understanding 
+* Playing the OverTheWire Bandit game allows me to practice using these common Linux commands. The repetition of using these commmands familiarises myself with Linux. This is fundamental as Linux is the foundation for all DevOps practices.  
